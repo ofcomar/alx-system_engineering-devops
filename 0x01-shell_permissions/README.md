@@ -3,4 +3,5 @@ whoami
 id
 shown
 touch
-chmod +x
+chmod 744
+chmod 774
