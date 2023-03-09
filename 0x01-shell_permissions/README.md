@@ -4,4 +4,4 @@ id
 shown
 touch
 chmod 744
-chmod 774
+chmod 754
