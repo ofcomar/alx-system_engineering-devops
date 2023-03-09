@@ -5,4 +5,4 @@ shown
 touch
 chmod 744
 chmod 754
-chmod
+chmod 751
