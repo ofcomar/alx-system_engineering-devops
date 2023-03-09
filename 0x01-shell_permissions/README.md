@@ -1,3 +1,4 @@
 betty
 whoami
 id
+shown
