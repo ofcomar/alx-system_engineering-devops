@@ -8,3 +8,4 @@ chmod 754
 chmod +x
 chmod 007
 chmod 753
+chmod 664
