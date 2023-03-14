@@ -1,0 +1,3 @@
+#!/bin/bash
+alias user="who -a"
+echo "hello" user
